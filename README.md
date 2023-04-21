@@ -12,4 +12,4 @@ Renan Oliveira pelo conteudo maravilho com explicações dinamicas e de fácil a
 Leonardo Ropelato pelas informações valiosas e pelo conhecimento repessado.
 
 SUCESSO SEMPRE!
-#SEJA ÁGIL!
+# SEJA ÁGIL!
